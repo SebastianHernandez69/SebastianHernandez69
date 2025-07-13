@@ -33,10 +33,10 @@ I'm a Full Stack Development enthusiast with experience building modern web appl
   <a href="https://sebastianhz.pages.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Website-My%20Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/sebastianhernandez" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastian-hzag/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-@sebastianhernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sebastian@example.com" target="_blank">
+  <a href="mailto:sebas.ismaelhz21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
