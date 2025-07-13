@@ -34,7 +34,7 @@ I'm a Full Stack Development enthusiast with experience building modern web appl
     <img src="https://img.shields.io/badge/Website-My%20Portfolio-24292F?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sebastian-hzag/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-@sebastianhernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-sebastian hernandez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sebas.ismaelhz21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
