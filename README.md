@@ -19,10 +19,37 @@ I'm a Full Stack Development enthusiast with experience building modern web appl
 ## 🛠 Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,astro" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,spring,graphql,java,fastapi,cs" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" height="40" />
-  <img src="https://skillicons.dev/icons?i=git,docker,azure,aws,terraform" height="40" />
+  <!-- Frontend & Languages -->
+<img src="https://skillicons.dev/icons?i=js" height="40" />
+<img src="https://skillicons.dev/icons?i=ts" height="40" />
+<img src="https://skillicons.dev/icons?i=react" height="40" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+<img src="https://skillicons.dev/icons?i=astro" height="40" />
+
+<!-- Backend & Frameworks -->
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" />
+<img src="https://skillicons.dev/icons?i=dotnet" height="40" />
+<img src="https://skillicons.dev/icons?i=spring" height="40" />
+<!-- <img src="https://skillicons.dev/icons?i=graphql" height="40" /> -->
+<img src="https://skillicons.dev/icons?i=java" height="40" />
+<img src="https://skillicons.dev/icons?i=fastapi" height="40" />
+<img src="https://skillicons.dev/icons?i=cs" height="40" />
+
+<!-- Bases de Datos -->
+<img src="https://skillicons.dev/icons?i=mysql" height="40" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+<img src="https://skillicons.dev/icons?i=prisma" height="40" />
+
+<!-- DevOps & Cloud -->
+<img src="https://skillicons.dev/icons?i=git" height="40" />
+<img src="https://skillicons.dev/icons?i=docker" height="40" />
+<img src="https://skillicons.dev/icons?i=azure" height="40" />
+<img src="https://skillicons.dev/icons?i=aws" height="40" />
+<!-- <img src="https://skillicons.dev/icons?i=terraform" height="40" />-->
+
 </div>
 
 
