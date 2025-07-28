@@ -32,7 +32,7 @@ I'm a Full Stack Development enthusiast with experience building modern web appl
 <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
 <img src="https://skillicons.dev/icons?i=dotnet" height="40" />
 <img src="https://skillicons.dev/icons?i=spring" height="40" />
-<!-- <img src="https://skillicons.dev/icons?i=graphql" height="40" /> -->
+ <img src="https://skillicons.dev/icons?i=graphql" height="40" />
 <img src="https://skillicons.dev/icons?i=java" height="40" />
 <img src="https://skillicons.dev/icons?i=fastapi" height="40" />
 <img src="https://skillicons.dev/icons?i=cs" height="40" />
@@ -48,7 +48,7 @@ I'm a Full Stack Development enthusiast with experience building modern web appl
 <img src="https://skillicons.dev/icons?i=docker" height="40" />
 <img src="https://skillicons.dev/icons?i=azure" height="40" />
 <img src="https://skillicons.dev/icons?i=aws" height="40" />
-<!-- <img src="https://skillicons.dev/icons?i=terraform" height="40" />-->
+<img src="https://skillicons.dev/icons?i=terraform" height="40" />
 
 </div>
 
