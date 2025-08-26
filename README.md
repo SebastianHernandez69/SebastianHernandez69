@@ -3,7 +3,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianHernandez69&theme=dark" alt="GitHub Streak" width="45%" style="margin: 0 1rem;" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianHernandez69&layout=compact&theme=dark" alt="Top Langs" style="margin: 0 1rem;" />
 
